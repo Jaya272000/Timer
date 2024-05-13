@@ -1,0 +1,43 @@
+body {
+  background-image: url('https://static.vecteezy.com/system/resources/previews/007/781/399/non_2x/hourglass-on-table-office-with-copy-space-sand-flowing-through-the-bulb-of-sandglass-measuring-the-passing-time-countdown-deadline-life-time-and-retirement-concept-free-photo.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.app {
+  text-align: center;
+}
+
+.timer {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.controls button {
+  font-size: 1rem;
+  padding: 10px 20px;
+  margin: 0 5px;
+  border: none;
+  border-radius: 5px;
+  background-color: #DA6D42
+  ;
+  color: white;
+  cursor: pointer;
+}
+
+.controls button:hover {
+  background-color:#E7CFB4
+  ;
+}
+
+.controls button:active {
+  background-color: #E7CFB4
+  ;
+}
